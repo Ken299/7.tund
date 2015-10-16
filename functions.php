@@ -4,7 +4,6 @@
 	require_once("../configglobal.php");
 	$database = "if15_kenaon";
 
-	
 	function getCarData2(){
 		
 		$mysqli = new mysqli($GLOBALS["servername"], $GLOBALS["server_username"], $GLOBALS["server_password"], $GLOBALS["database"]);
