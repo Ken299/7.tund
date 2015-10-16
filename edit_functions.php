@@ -40,7 +40,7 @@
 		//kas õnnestus salvestada
 		if($stmt->execute())
 		{
-			echo "jee";
+			//echo "jee";
 		}
 		
 		
